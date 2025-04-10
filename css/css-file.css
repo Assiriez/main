@@ -211,7 +211,7 @@ justify-content: space-between;
     align-items: center;
     gap: 25px;
     padding: 0;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     
     font-family: "Manrope", sans-serif;
     font-weight: 700;
@@ -223,6 +223,10 @@ justify-content: space-between;
     background-color: transparent;
     border: none;
     opacity: 0.7;
+}
+
+.my-condition {
+    margin-bottom: 80px;
 }
 
 .works__wrapper {
